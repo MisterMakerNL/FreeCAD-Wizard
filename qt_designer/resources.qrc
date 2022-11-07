@@ -11,7 +11,86 @@
     <file>resources/icons/TechDrawWorkbench.svg</file>
   </qresource>
   <qresource prefix="newPrefix">
+    <file>resources/Freecad quickstart.png</file>
     <file>resources/freecad_pd_full.png</file>
     <file>resources/freecad_pd_simple.png</file>
+  </qresource>
+  <qresource prefix="theme">
+    <file>resources/images_dark-light/background_freecad.svg</file>
+    <file>resources/images_dark-light/background_freecad_dark.svg</file>
+    <file>resources/images_dark-light/background_freecad_light.svg</file>
+    <file>resources/images_dark-light/branch_end_closed_dark.svg</file>
+    <file>resources/images_dark-light/branch_end_closed_light.svg</file>
+    <file>resources/images_dark-light/branch_end_dark.svg</file>
+    <file>resources/images_dark-light/branch_end_light.svg</file>
+    <file>resources/images_dark-light/branch_end_open_dark.svg</file>
+    <file>resources/images_dark-light/branch_end_open_light.svg</file>
+    <file>resources/images_dark-light/branch_more_closed_dark.svg</file>
+    <file>resources/images_dark-light/branch_more_closed_light.svg</file>
+    <file>resources/images_dark-light/branch_more_dark.svg</file>
+    <file>resources/images_dark-light/branch_more_light.svg</file>
+    <file>resources/images_dark-light/branch_more_open_dark.svg</file>
+    <file>resources/images_dark-light/branch_more_open_light.svg</file>
+    <file>resources/images_dark-light/branch_vline_dark.svg</file>
+    <file>resources/images_dark-light/branch_vline_light.svg</file>
+    <file>resources/images_dark-light/checkbox_dark.svg</file>
+    <file>resources/images_dark-light/checkbox_indeterminate_dark.svg</file>
+    <file>resources/images_dark-light/checkbox_indeterminate_light.svg</file>
+    <file>resources/images_dark-light/checkbox_light.svg</file>
+    <file>resources/images_dark-light/close_dark.svg</file>
+    <file>resources/images_dark-light/close_light.svg</file>
+    <file>resources/images_dark-light/down_arrow_dark.svg</file>
+    <file>resources/images_dark-light/down_arrow_darker.svg</file>
+    <file>resources/images_dark-light/down_arrow_disabled_dark.svg</file>
+    <file>resources/images_dark-light/down_arrow_disabled_light.svg</file>
+    <file>resources/images_dark-light/down_arrow_light.svg</file>
+    <file>resources/images_dark-light/down_arrow_lighter.svg</file>
+    <file>resources/images_dark-light/expand_arrow.svg</file>
+    <file>resources/images_dark-light/expand_arrow_dark.svg</file>
+    <file>resources/images_dark-light/Hmovetoolbar_dark.svg</file>
+    <file>resources/images_dark-light/Hmovetoolbar_light.svg</file>
+    <file>resources/images_dark-light/Hsepartoolbar_dark.svg</file>
+    <file>resources/images_dark-light/Hsepartoolbar_light.svg</file>
+    <file>resources/images_dark-light/left_arrow_dark.svg</file>
+    <file>resources/images_dark-light/left_arrow_darker.svg</file>
+    <file>resources/images_dark-light/left_arrow_disabled_dark.svg</file>
+    <file>resources/images_dark-light/left_arrow_disabled_light.svg</file>
+    <file>resources/images_dark-light/left_arrow_light.svg</file>
+    <file>resources/images_dark-light/left_arrow_lighter.svg</file>
+    <file>resources/images_dark-light/more_dark.svg</file>
+    <file>resources/images_dark-light/more_light.svg</file>
+    <file>resources/images_dark-light/radiobutton_dark.svg</file>
+    <file>resources/images_dark-light/radiobutton_light.svg</file>
+    <file>resources/images_dark-light/right_arrow_dark.svg</file>
+    <file>resources/images_dark-light/right_arrow_darker.svg</file>
+    <file>resources/images_dark-light/right_arrow_disabled_dark.svg</file>
+    <file>resources/images_dark-light/right_arrow_disabled_light.svg</file>
+    <file>resources/images_dark-light/right_arrow_light.svg</file>
+    <file>resources/images_dark-light/right_arrow_lighter.svg</file>
+    <file>resources/images_dark-light/sizegrip_dark.svg</file>
+    <file>resources/images_dark-light/sizegrip_light.svg</file>
+    <file>resources/images_dark-light/splitter_horizontal_dark.svg</file>
+    <file>resources/images_dark-light/splitter_horizontal_light.svg</file>
+    <file>resources/images_dark-light/splitter_vertical_dark.svg</file>
+    <file>resources/images_dark-light/splitter_vertical_light.svg</file>
+    <file>resources/images_dark-light/transparent.svg</file>
+    <file>resources/images_dark-light/undock_dark.svg</file>
+    <file>resources/images_dark-light/undock_light.svg</file>
+    <file>resources/images_dark-light/up_arrow_dark.svg</file>
+    <file>resources/images_dark-light/up_arrow_darker.svg</file>
+    <file>resources/images_dark-light/up_arrow_disabled_dark.svg</file>
+    <file>resources/images_dark-light/up_arrow_disabled_light.svg</file>
+    <file>resources/images_dark-light/up_arrow_light.svg</file>
+    <file>resources/images_dark-light/up_arrow_lighter.svg</file>
+    <file>resources/images_dark-light/up-down_arrow_dark.svg</file>
+    <file>resources/images_dark-light/up-down_arrow_darker.svg</file>
+    <file>resources/images_dark-light/up-down_arrow_disabled_dark.svg</file>
+    <file>resources/images_dark-light/up-down_arrow_disabled_light.svg</file>
+    <file>resources/images_dark-light/up-down_arrow_light.svg</file>
+    <file>resources/images_dark-light/up-down_arrow_lighter.svg</file>
+    <file>resources/images_dark-light/Vmovetoolbar_dark.svg</file>
+    <file>resources/images_dark-light/Vmovetoolbar_light.svg</file>
+    <file>resources/images_dark-light/Vsepartoolbar_dark.svg</file>
+    <file>resources/images_dark-light/Vsepartoolbar_light.svg</file>
   </qresource>
 </RCC>
